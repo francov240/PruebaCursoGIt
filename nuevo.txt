@@ -1,4 +1,6 @@
 ls
 pwd
-listo
-
+listoasda
+saad
+asdasd
+asdadas
